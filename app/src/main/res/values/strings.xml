@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="move_activity">Activity Dipindah</string>
+    <string name="pindah_activity_dengan_data">Pindah Activity dengan Data</string>
+    <string name="data_diterima">Data Diterima!!</string>
+    <string name="data_diterima_name">Nama</string>
+    <string name="data_diterima_age">Umur</string>
+    <string name="pindah_activity_dengan_object">Pindah Activity dengan Object</string>
+    <string name="object_diterima">Object Diterima!!</string>
+    <string name="dial_a_number">Dial a Number</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="pilih_angka">Pilih Angka yang Anda Suka</string>
+    <string name="btn_pilih_angka">Pilih Angka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="pindah_activity_dengan_result">Pindah Activity dengan Result</string>
+    <string name="result_dari_activity">Menunggu Result dari Activity...</string>
+</resources>
